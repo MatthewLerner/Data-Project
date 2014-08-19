@@ -13,8 +13,8 @@ The Run_Analysis.R contains the R-Code for consdensing the original dataset into
 
 
 Files:
-1) README.txt
-2) Codebook.txt
+1) README.MD
+2) Codebook.MD
 3) TidyDataSet.txt
 4) Run_Analysis.R
 
